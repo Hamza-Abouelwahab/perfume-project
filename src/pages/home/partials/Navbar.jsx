@@ -1,12 +1,12 @@
 
-export const HeroSection = () => {
+export const Navbar = () => {
     
     
 
     return (
         <>
 
-
+        hhh
         </>
     )
 

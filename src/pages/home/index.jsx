@@ -1,11 +1,13 @@
+import HeroPage from "./partials/hero";
+import { Navbar } from "./partials/Navbar";
 
-import { HeroSection } from './partials/content';
 
 
 const Home = () => {
     return (
         <>
-            <HeroSection/> 
+            <Navbar/> 
+            <HeroPage/>
         </>
     );
 };
